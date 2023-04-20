@@ -1,4 +1,4 @@
-from bus import Bus
+from bus import *
 from manager import Manager
 
 
